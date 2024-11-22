@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "会话操作实例", "CreoVB\会话操作实例.csproj", "{07F94B85-B30F-47C2-BC42-D58EC33C22CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectCreo", "ConnectCreo\ConnectCreo.csproj", "{52BA2BBC-F7BE-4852-A034-09D8CB560659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "文件操作", "文件操作\文件操作.csproj", "{BF782D53-A52C-4998-BF04-FD381B38F728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegVB", "RegVB\RegVB.csproj", "{197D8115-5DDF-4F07-9D18-7C0B8FDFF2BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F94B85-B30F-47C2-BC42-D58EC33C22CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F94B85-B30F-47C2-BC42-D58EC33C22CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F94B85-B30F-47C2-BC42-D58EC33C22CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F94B85-B30F-47C2-BC42-D58EC33C22CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52BA2BBC-F7BE-4852-A034-09D8CB560659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BA2BBC-F7BE-4852-A034-09D8CB560659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BA2BBC-F7BE-4852-A034-09D8CB560659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BA2BBC-F7BE-4852-A034-09D8CB560659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF782D53-A52C-4998-BF04-FD381B38F728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF782D53-A52C-4998-BF04-FD381B38F728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF782D53-A52C-4998-BF04-FD381B38F728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF782D53-A52C-4998-BF04-FD381B38F728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197D8115-5DDF-4F07-9D18-7C0B8FDFF2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197D8115-5DDF-4F07-9D18-7C0B8FDFF2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197D8115-5DDF-4F07-9D18-7C0B8FDFF2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197D8115-5DDF-4F07-9D18-7C0B8FDFF2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F31E5E4F-0994-4326-8EA0-12F55DCA2C02}
+	EndGlobalSection
+EndGlobal
